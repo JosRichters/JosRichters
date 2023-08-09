@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosRichters
-- 👀 I’m interested in Arduino and ESP32-CAM projects
+- 👀 I’m interested in Arduino and ESP32-CAM projects, and also in 3-D development and printing objects.
 - 📫 How to reach me @ http://rca-pythia.net/
 
 <!---
